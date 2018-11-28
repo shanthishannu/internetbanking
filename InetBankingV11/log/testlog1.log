@@ -1,0 +1,157 @@
+2018-08-10 20:15:20,805 [main] INFO Inetbanking - url opened
+2018-08-10 20:15:21,831 [main] INFO Inetbanking - Enterd username
+2018-08-10 20:15:21,972 [main] INFO Inetbanking - Entered password
+2018-08-10 20:15:24,324 [main] INFO Inetbanking - sumitted
+2018-08-10 20:15:24,350 [main] INFO Inetbanking - Login test passed
+2018-08-10 20:17:29,592 [main] INFO Inetbanking - url opened
+2018-08-10 20:17:29,861 [main] INFO Inetbanking - Enterd username
+2018-08-10 20:17:30,009 [main] INFO Inetbanking - Entered password
+2018-08-10 20:17:32,318 [main] INFO Inetbanking - sumitted
+2018-08-10 20:17:32,340 [main] INFO Inetbanking - Login test passed
+2018-08-10 20:51:03,731 [main] INFO Inetbanking - url opened
+2018-08-10 20:51:04,037 [main] INFO Inetbanking - Enterd username
+2018-08-10 20:51:04,180 [main] INFO Inetbanking - Entered password
+2018-08-10 20:51:06,623 [main] INFO Inetbanking - sumitted
+2018-08-10 20:51:06,671 [main] INFO Inetbanking - Login test passed
+2018-08-10 21:05:21,366 [main] INFO Inetbanking - url opened
+2018-08-10 21:05:21,636 [main] INFO Inetbanking - Enterd username
+2018-08-10 21:05:21,792 [main] INFO Inetbanking - Entered password
+2018-08-10 21:05:24,048 [main] INFO Inetbanking - sumitted
+2018-08-10 21:05:24,086 [main] INFO Inetbanking - Login test passed
+2018-08-10 21:08:01,327 [main] INFO Inetbanking - url opened
+2018-08-10 21:08:01,492 [main] INFO Inetbanking - Enterd username
+2018-08-10 21:08:01,653 [main] INFO Inetbanking - Entered password
+2018-08-10 21:08:04,166 [main] INFO Inetbanking - sumitted
+2018-08-10 21:08:04,190 [main] INFO Inetbanking - Login test passed
+2018-08-10 21:26:34,188 [main] INFO Inetbanking - url opened
+2018-08-10 21:26:34,500 [main] INFO Inetbanking - Enterd username
+2018-08-10 21:26:34,659 [main] INFO Inetbanking - Entered password
+2018-08-10 21:26:37,171 [main] INFO Inetbanking - sumitted
+2018-08-10 21:26:37,194 [main] INFO Inetbanking - Login test passed
+2018-08-10 21:28:19,075 [main] INFO Inetbanking - url opened
+2018-08-10 21:28:19,313 [main] INFO Inetbanking - Enterd username
+2018-08-10 21:28:19,475 [main] INFO Inetbanking - Entered password
+2018-08-10 21:28:28,621 [main] INFO Inetbanking - sumitted
+2018-08-13 20:51:29,312 [main] INFO Inetbanking - url opened
+2018-08-13 20:51:29,615 [main] INFO Inetbanking - Enterd username
+2018-08-13 20:51:29,803 [main] INFO Inetbanking - Entered password
+2018-08-13 20:51:34,046 [main] INFO Inetbanking - sumitted
+2018-08-13 20:51:46,292 [main] INFO Inetbanking - user name provided
+2018-08-13 20:51:46,460 [main] INFO Inetbanking - password provided
+2018-08-13 20:51:52,618 [main] INFO Inetbanking - user name provided
+2018-08-13 20:51:52,807 [main] INFO Inetbanking - password provided
+2018-08-13 20:55:21,947 [main] INFO Inetbanking - user name provided
+2018-08-13 20:55:22,098 [main] INFO Inetbanking - password provided
+2018-08-13 20:55:28,051 [main] INFO Inetbanking - user name provided
+2018-08-13 20:55:28,207 [main] INFO Inetbanking - password provided
+2018-08-13 20:57:10,362 [main] INFO Inetbanking - user name provided
+2018-08-13 20:57:10,699 [main] INFO Inetbanking - password provided
+2018-08-13 20:57:17,591 [main] INFO Inetbanking - user name provided
+2018-08-13 20:57:17,755 [main] INFO Inetbanking - password provided
+2018-08-13 20:57:32,663 [main] INFO Inetbanking - Login successfull
+2018-08-13 20:57:32,846 [main] INFO Inetbanking - user name provided
+2018-08-13 20:57:33,004 [main] INFO Inetbanking - password provided
+2018-08-13 21:25:42,705 [main] INFO Inetbanking - url opened
+2018-08-13 21:25:42,992 [main] INFO Inetbanking - Enterd username
+2018-08-13 21:25:43,157 [main] INFO Inetbanking - Entered password
+2018-08-13 21:26:59,960 [main] INFO Inetbanking - url opened
+2018-08-13 21:27:00,205 [main] INFO Inetbanking - Enterd username
+2018-08-13 21:27:00,365 [main] INFO Inetbanking - Entered password
+2018-08-13 21:27:06,976 [main] INFO Inetbanking - providing customer details....
+2018-08-13 21:27:16,566 [main] INFO Inetbanking - validation started....
+2018-08-13 21:27:16,595 [main] INFO Inetbanking - add new customer test case passed
+2018-08-13 21:28:16,788 [main] INFO Inetbanking - url opened
+2018-08-13 21:28:17,081 [main] INFO Inetbanking - Enterd username
+2018-08-13 21:28:17,277 [main] INFO Inetbanking - Entered password
+2018-08-13 21:28:19,821 [main] INFO Inetbanking - sumitted
+2018-08-13 21:28:28,771 [main] INFO Inetbanking - user name provided
+2018-08-13 21:28:28,947 [main] INFO Inetbanking - password provided
+2018-08-13 21:28:34,504 [main] INFO Inetbanking - user name provided
+2018-08-13 21:28:34,633 [main] INFO Inetbanking - password provided
+2018-08-13 21:28:46,602 [main] INFO Inetbanking - Login successfull
+2018-08-13 21:28:46,785 [main] INFO Inetbanking - user name provided
+2018-08-13 21:28:46,905 [main] INFO Inetbanking - password provided
+2018-08-13 21:29:00,357 [main] INFO Inetbanking - url opened
+2018-08-13 21:29:00,546 [main] INFO Inetbanking - Enterd username
+2018-08-13 21:29:00,773 [main] INFO Inetbanking - Entered password
+2018-08-13 21:29:07,970 [main] INFO Inetbanking - providing customer details....
+2018-08-13 21:29:17,992 [main] INFO Inetbanking - validation started....
+2018-08-13 21:29:18,016 [main] INFO Inetbanking - add new customer test case passed
+2018-08-14 20:21:45,630 [main] INFO Inetbanking - url opened
+2018-08-14 20:21:46,070 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:21:46,278 [main] INFO Inetbanking - Entered password
+2018-08-14 20:21:48,464 [main] INFO Inetbanking - sumitted
+2018-08-14 20:21:57,146 [main] INFO Inetbanking - url opened
+2018-08-14 20:21:57,393 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:21:57,591 [main] INFO Inetbanking - Entered password
+2018-08-14 20:22:55,784 [main] INFO Inetbanking - url opened
+2018-08-14 20:22:56,952 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:22:57,132 [main] INFO Inetbanking - Entered password
+2018-08-14 20:22:59,374 [main] INFO Inetbanking - sumitted
+2018-08-14 20:23:07,935 [main] INFO Inetbanking - url opened
+2018-08-14 20:23:08,166 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:23:08,340 [main] INFO Inetbanking - Entered password
+2018-08-14 20:25:15,073 [main] INFO Inetbanking - url opened
+2018-08-14 20:25:15,700 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:25:15,924 [main] INFO Inetbanking - Entered password
+2018-08-14 20:25:18,194 [main] INFO Inetbanking - sumitted
+2018-08-14 20:25:29,124 [main] INFO Inetbanking - url opened
+2018-08-14 20:25:29,828 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:25:30,061 [main] INFO Inetbanking - Entered password
+2018-08-14 20:25:37,035 [main] INFO Inetbanking - providing customer details....
+2018-08-14 20:25:47,067 [main] INFO Inetbanking - validation started....
+2018-08-14 20:25:47,084 [main] INFO Inetbanking - add new customer test case passed
+2018-08-14 20:27:18,910 [main] INFO Inetbanking - url opened
+2018-08-14 20:27:19,206 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:27:19,411 [main] INFO Inetbanking - Entered password
+2018-08-14 20:27:22,445 [main] INFO Inetbanking - sumitted
+2018-08-14 20:27:22,474 [main] INFO Inetbanking - Login test passed
+2018-08-14 20:27:30,310 [main] INFO Inetbanking - url opened
+2018-08-14 20:27:30,543 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:27:30,756 [main] INFO Inetbanking - Entered password
+2018-08-14 20:27:38,165 [main] INFO Inetbanking - providing customer details....
+2018-08-14 20:27:48,038 [main] INFO Inetbanking - validation started....
+2018-08-14 20:27:48,069 [main] INFO Inetbanking - add new customer test case passed
+2018-08-14 20:45:34,167 [main] INFO Inetbanking - url opened
+2018-08-14 20:45:35,236 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:45:35,424 [main] INFO Inetbanking - Entered password
+2018-08-14 20:45:37,796 [main] INFO Inetbanking - sumitted
+2018-08-14 20:45:37,842 [main] INFO Inetbanking - Login test passed
+2018-08-14 20:45:48,517 [main] INFO Inetbanking - url opened
+2018-08-14 20:45:48,764 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:45:48,957 [main] INFO Inetbanking - Entered password
+2018-08-14 20:45:55,929 [main] INFO Inetbanking - providing customer details....
+2018-08-14 20:46:06,300 [main] INFO Inetbanking - validation started....
+2018-08-14 20:46:06,331 [main] INFO Inetbanking - add new customer test case passed
+2018-08-14 20:50:20,354 [main] INFO Inetbanking - url opened
+2018-08-14 20:50:20,602 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:50:20,797 [main] INFO Inetbanking - Entered password
+2018-08-14 20:50:23,523 [main] INFO Inetbanking - sumitted
+2018-08-14 20:50:23,546 [main] INFO Inetbanking - Login test passed
+2018-08-14 20:50:30,735 [main] INFO Inetbanking - url opened
+2018-08-14 20:50:30,910 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:50:31,094 [main] INFO Inetbanking - Entered password
+2018-08-14 20:50:37,919 [main] INFO Inetbanking - providing customer details....
+2018-08-14 20:50:45,974 [main] INFO Inetbanking - validation started....
+2018-08-14 20:51:18,511 [main] INFO Inetbanking - url opened
+2018-08-14 20:51:18,768 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:51:18,927 [main] INFO Inetbanking - Entered password
+2018-08-14 20:51:21,107 [main] INFO Inetbanking - sumitted
+2018-08-14 20:51:21,138 [main] INFO Inetbanking - Login test passed
+2018-08-14 20:51:28,947 [main] INFO Inetbanking - url opened
+2018-08-14 20:51:29,134 [main] INFO Inetbanking - Enterd username
+2018-08-14 20:51:29,290 [main] INFO Inetbanking - Entered password
+2018-08-14 20:51:36,106 [main] INFO Inetbanking - providing customer details....
+2018-08-14 20:51:46,135 [main] INFO Inetbanking - validation started....
+2018-08-14 20:51:46,162 [main] INFO Inetbanking - add new customer test case passed
+2018-08-15 12:31:13,620 [main] INFO Inetbanking - url opened
+2018-08-15 12:31:18,701 [main] INFO Inetbanking - Enterd username
+2018-08-15 12:31:18,777 [main] INFO Inetbanking - Entered password
+2018-08-15 12:31:22,400 [main] INFO Inetbanking - sumitted
+2018-08-15 12:31:22,424 [main] INFO Inetbanking - Login test passed
+2018-08-15 12:31:30,260 [main] INFO Inetbanking - url opened
+2018-08-15 12:31:30,353 [main] INFO Inetbanking - Enterd username
+2018-08-15 12:31:30,435 [main] INFO Inetbanking - Entered password
+2018-08-15 12:31:39,013 [main] INFO Inetbanking - providing customer details....
+2018-08-15 12:31:48,530 [main] INFO Inetbanking - validation started....
+2018-08-15 12:31:48,562 [main] INFO Inetbanking - add new customer test case passed
